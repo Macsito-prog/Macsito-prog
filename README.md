@@ -7,7 +7,6 @@
 - Thanks for reading ! 
 
 
-(https://github-readme-stats.vercel.app/api?username=macsito-prog)](https://github.com/macsito-prog/github-readme-stats)
 <!---
 Macsito-prog/Macsito-prog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
