@@ -2,7 +2,7 @@
 - 👀 I’m interested in Business Intelligence, Ionic Development and all things Python!
 - 🌱 I’m currently learning Ionic Angular, Python libraries for Data Analysis and some WebDev
 - 💞️ I’m looking to collaborate on beginner-friendly projects and writing beginner IT-related topics.
-- 📫 Reach me on Twitter -> https://twitter.com/macnoon_ 
+- 📫 Reach me on Twitter -> "https://twitter.com/macnoon_" 
 
 - Thanks for reading ! 
 
