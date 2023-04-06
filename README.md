@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Macsito-prog
 - 👀 I’m interested in Business Intelligence, Ionic Development and all things Python!
 - 🌱 I’m currently learning Ionic Angular, Python libraries for Data Analysis and some WebDev
-- 💞️ I’m looking to collaborate on beginner-friendly projects and writing beginner IT-related topics.
+- 💞️ I’m looking to collaborate on beginner-friendly projects and write beginner IT-related topics.
 - 📫 Reach me on Twitter -> https://twitter.com/whoismacnoon 
 
 - Thanks for reading ! 
