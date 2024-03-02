@@ -6,16 +6,19 @@
 ### <div align="center">I'm Max. Web developer with interest in Data Analysis and all things Python!</div>  
   
 
-- 🔭 I’m currently working getting my programmer's degree.  
+- 🔭 Junior Developer.  
   
 
-- 🌱 I’m currently learning Power BI. Planning on learning iOS development next.  
+- 🌱 I’m currently working at an inssurance company.  
   
 
 - ❓ Ask me about anything related to music and [the greatest band in the world.](https://www.youtube.com/watch?v=gnoGvW6o6rk&ab_channel=RushVEVO)  
   
 
-- ⚡ Fun fact: got top 100 on COD MW3   
+- ⚡ Fun fact: got top 100 on COD MW3
+  
+
+- 🎴 New Magic Player
   
   
 <table><tr><td valign="top" width="33%">
