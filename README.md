@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Max. Web developer with interest in Data Analysis and all things Python!</div>  
+### <div align="center">I'm Max. Web developer with interest in Cybersecurity!</div>  
   
 
 - 🔭 Junior Developer.  
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: got top 100 on COD MW3
   
 
-- 🎴 New Magic Player
+- 🎴 Magic The Gathering enjoyer :p 
   
 
 ## Connect with me  
