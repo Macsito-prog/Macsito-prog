@@ -6,10 +6,10 @@
 ### <div align="center">I'm Max. Web developer with interest in Cybersecurity!</div>  
   
 
-- 🔭 Junior Developer.  
+- 🔭 Developer with three years of experience.  
   
 
-- 🌱 I’m currently working at an inssurance company.  
+- 🌱 I’m currently working at an insurance company.  
   
 
 - ❓ Ask me about anything related to music and [the greatest band in the world.](https://www.youtube.com/watch?v=gnoGvW6o6rk&ab_channel=RushVEVO)  
@@ -23,18 +23,12 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/macsito-prog" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/maccarrasco" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/itsmacnoon" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/macc95" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 
@@ -50,4 +44,4 @@
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
