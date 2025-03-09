@@ -6,7 +6,7 @@
 ### <div align="center">I'm Max. Frontend developer with three years of experience</div>  
   
 
-- 🔭 I’m currently learning Kotlin. Looking to make an app soon!   
+- 🔭 I’m currently learning C#!   
   
 
 - 🌱 I’m building mostly work-related projects  
