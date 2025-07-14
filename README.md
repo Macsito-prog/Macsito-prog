@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Max. Frontend developer with three years of experience</div>  
+### <div align="center">I'm Max. Full stack developer with three years of experience</div>  
   
 
 - 🔭 I’m currently learning C#!   
