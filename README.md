@@ -7,10 +7,7 @@
   
 
 - 🔭 Currently working on projects at my job. I promise I'll get back!    
-  
-
-- 🌱 I’m building mostly work-related projects  
-  
+    
 
 - ❓ Ask me about anything related to TypeScript and Angular! And also, the greatest [band](https://www.google.com/search?q=rush&oq=rush+&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIMCAEQABhDGIAEGIoFMgwIAhAAGBQYhwIYgAQyDAgDEAAYQxiABBiKBTIMCAQQABhDGIAEGIoFMgwIBRAAGEMYgAQYigUyDAgGEAAYQxiABBiKBTIGCAcQRRg8MgYICBBFGD3SAQc1MzVqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8) in the world.  
   
