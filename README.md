@@ -6,7 +6,7 @@
 ### <div align="center">I'm Max. Full stack developer with three years of experience</div>  
   
 
-- 🔭 I’m currently learning C#!   
+- 🔭 Currently working on projects at my job. I promise I'll get back!    
   
 
 - 🌱 I’m building mostly work-related projects  
